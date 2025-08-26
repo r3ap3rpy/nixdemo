@@ -2,7 +2,7 @@ import this
 
 def equals(a,b):
     return a == b
-
+print("amend")
 print("THis is cool")
 print("Local branch")
 print("sadfakdjakdj")
