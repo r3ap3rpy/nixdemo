@@ -1,5 +1,8 @@
 import this
-
+a
+b
+c
+d
 def equals(a,b):
     return a == b
 print("amend")
